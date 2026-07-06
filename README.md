@@ -15,3 +15,4 @@ Software Engineering Capstone project developed in C# using .NET MAUI and SQLite
 - Notifications
 
 The latest Android release is available below.
+[Download Academic Progress Tracker APK](./AcademicProgressTracker.apk)
