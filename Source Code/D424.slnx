@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../AcademicProgressTracker.Tests/AcademicProgressTracker.Tests.csproj" Id="87376e88-91bc-437f-b22d-c740018ca844" />
+  <Project Path="D424.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
